@@ -1,0 +1,56 @@
+
+.list {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+nav {
+    max-width: 100vh;
+}
+
+.first-card {
+    margin-top: 60px;
+}
+.from {
+    font-size: 12px;
+    margin: none;
+}
+
+.to {
+    font-size: 12px;
+}
+
+.comment {
+    height: 200px;
+    margin-top: 40px;
+    width: 100%;
+}
+
+.bgColor{
+    background-color:#648bb3;
+}
+
+.bgColor2{
+    background-color:#648bb3;
+    border-width: 0px;
+}
+
+.bgColor3{
+    background-color:#8bb4bb;
+}
+
+.bgColor4{
+    background-color:#8bb4bb;
+    border-width:0px;
+
+}
+
+.bgColor5{
+    background-color:#eaf0f1;
+    border-width:0px;
+    border
+
+}
+
+
+
