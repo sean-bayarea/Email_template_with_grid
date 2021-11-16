@@ -4,8 +4,9 @@
     margin-bottom: 20px;
 }
 
-nav {
-    max-width: 100vh;
+
+.container {
+	max-width: unset;
 }
 
 .first-card {
